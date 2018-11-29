@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BookInventory</string>
+    <string name="label_book">Books</string>
+    <string name="label_add_new">Add New</string>
 </resources>
