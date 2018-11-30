@@ -2,4 +2,24 @@
     <string name="app_name">BookInventory</string>
     <string name="label_book">Books</string>
     <string name="label_add_new">Add New</string>
+
+    <string name="action_delete_all">Delete All</string>
+    <string name="action_insert_dummy">Insert Dummy Data</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="input_product_name">Product Name:</string>
+    <string name="input_hint_product_name">Enter Product Name</string>
+
+    <string name="input_product_price">Product Price:</string>
+    <string name="input_hint_product_price">Enter Product Price</string>
+
+    <string name="input_product_quantity">Product Quantity:</string>
+    <string name="input_hint_product_quantity">Enter Product Quantity</string>
+
+    <string name="input_supplier_name">Supplier Name:</string>
+    <string name="input_hint_supplier_name">Enter Supplier Name</string>
+
+    <string name="input_supplier_phone">Supplier Phone:</string>
+    <string name="input_hint_supplier_phone">Enter Supplier Phone</string>
 </resources>
